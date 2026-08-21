@@ -16,8 +16,29 @@ CoincidIA es un sistema web orientado al registro, gestión y búsqueda de objet
 
 ## Tecnologías utilizadas
 
-- HTML
-- CSS
+### Frontend
+- HTML5
+- CSS3
 - JavaScript
+- Bootstrap
+- Font Awesome
+- SweetAlert2
+
+### Backend
+- PHP
+- Arquitectura MVC
+- PDO
+
+### Base de datos
+- MySQL
+
+### Inteligencia Artificial
+- Python
+- YOLO
+
+### Herramientas de desarrollo
+- Visual Studio Code
+- XAMPP
 - Git
 - GitHub
+- Thunder Client
